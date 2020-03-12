@@ -1,0 +1,6 @@
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\bin\Debug\MVPTest.Presentation.dll
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\bin\Debug\MVPTest.Presentation.pdb
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\obj\Debug\MVPTest.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\obj\Debug\MVPTest.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\obj\Debug\MVPTest.Presentation.dll
+C:\Users\Vahid\source\repos\MVPTest\MVPTest.Presentation\obj\Debug\MVPTest.Presentation.pdb
